@@ -1,15 +1,13 @@
-LK & Partners — GitHub-ready website
+LK & PARTNERS — GitHub Website Build
 
-UPLOAD
-1. Open your GitHub website repository.
-2. Upload ALL files and the assets folder from this package to the repository root.
-3. Keep the assets folder name exactly as supplied.
-4. If GitHub asks whether to replace existing files, replace them.
-5. Commit the changes.
+This build makes only the two requested visual changes:
+1. The hero photograph now runs behind the left-hand text while keeping the mug on the right.
+2. The gold infinity logo mark is thinner, matching the supplied screenshot more closely.
 
-Homepage: index.html
-Styles: styles.css
-Images: assets/
+All other website content, sections, typography, colours, spacing, testimonials and page structure are unchanged.
 
-This build follows the approved LK & Partners homepage reference supplied on 19 September 2026.
-Contact: support@lkandpartners.co.uk | 07960 668788
+GITHUB UPLOAD
+1. Unzip this folder.
+2. Upload all files and the assets folder to the root of your GitHub repository.
+3. Replace the existing files when prompted.
+4. Commit the changes.
