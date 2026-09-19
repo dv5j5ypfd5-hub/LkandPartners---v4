@@ -1,13 +1,8 @@
-LK & PARTNERS — GitHub Website Build
+LK & Partners — GitHub-ready website
 
-This build makes only the two requested visual changes:
-1. The hero photograph now runs behind the left-hand text while keeping the mug on the right.
-2. The gold infinity logo mark is thinner, matching the supplied screenshot more closely.
+This build changes only the requested hero/header details:
+- the hero photograph runs continuously behind the headline text;
+- the mug is positioned on the right-hand side of the hero;
+- the thinner gold infinity logo is retained.
 
-All other website content, sections, typography, colours, spacing, testimonials and page structure are unchanged.
-
-GITHUB UPLOAD
-1. Unzip this folder.
-2. Upload all files and the assets folder to the root of your GitHub repository.
-3. Replace the existing files when prompted.
-4. Commit the changes.
+Upload all files and folders to the root of your GitHub Pages repository, replacing the previous version.
