@@ -1,0 +1,10 @@
+LK & Partners GitHub build - checked 19 September 2026
+
+Verified hero implementation:
+- one full-width hero background image (.hero-photo uses inset:0)
+- no separate solid-green left column
+- dark green is a transparent gradient overlay (.shade)
+- hero text sits above the photograph
+- thin infinity logo retained
+
+Upload all files/folders in this package to the repository root.
